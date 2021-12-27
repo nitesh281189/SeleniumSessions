@@ -1,0 +1,32 @@
+Important properties of TestNG framework.
+Junit/TestNg both are unit testing framework.Both are JavaUnit Testing framework.
+TestNG:Testing New Generation Framework 
+	   Unit Testing Framework 
+	   Used by developers to Write Unit test Cases 
+	   Automation Engineers use this framework 
+	   Powerful tool 
+	   
+	   Purpose: Design test cases in a proper Systematic Way 
+	   Open Source and freely avalaible in market 
+	   Avaliable in form of Jar files 
+	   Also called Java Unit testing Framework:Only and Only avaliable with Java 
+	   										   Java Testing framework 
+	   										   
+	   It C=can generate Very good HTML reports 
+	   Helps to define sequence of test cases/ priorities
+	   It gives lots of annotations.
+	   Helps to define dependencies(One test case dependent on other test case)
+	   Grouping is also avaliable
+	   Data Provider Feature also avaliable in TestNg(MostImp:Same test case execution with different sets of data.)
+	   Data provider is very good feature of TestNg.
+	   It is also called TDD framework: Test Driven development- Along with writing of the code, 
+	   															 we can also design our test cases in agile methodology
+	   															 TestNg will help to design the test cases also. 
+	   															 We can drive the test cases with help of TESTNg framework
+	   Important for Interview/Frameworks														 
+	   Any Automation Framework-TestNg Most Important.
+	   
+	   Install TestNg in Eclipse.
+	   															 
+	   	
+	   															 
